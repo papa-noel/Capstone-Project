@@ -16,7 +16,7 @@ To view the project in full action, all you will have to do is run the notebook.
 
 The first cell in the notebook will download the necessary training, validation, and test images and annotation files onto the colab notebook from this github repo. There are no scripts that you need to run or anything special to do. All you simply need to do is run the cells to view the training and testing of the model.
 
-The DETR model that I will be fine tuning and using can be found here, in another REPO on my github: (https://github.com/papa-noel/detr.git).
+The DETR model that I will be fine tuning and using can be found here, in another REPO on my github: (https://github.com/papa-noel/detr.git). If you would like more information on what DETR is/does, you can view this repo to get a better idea. In the repo, you can find helpful explanations and links that can help you wrap your head around how it all works. It honestly can get a bit confusing, but the gist of DETR is image detection/classification. To utlize DETR for your own tasks, you simply need to fine tune it. Instructions to fine tune can also be found on the repo.
 
 The actual training of the model will take some time, about ~18 minutes or so.
 
